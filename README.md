@@ -20,3 +20,6 @@ http://www.naturalearthdata.com/downloads/10m-cultural-vectors/
 
 Sources:
 OpenStreetMap, Natural Earth and U.S. Census Bureau
+
+More reading:
+[Use OpenStreetMap data in Mapbox Studio](https://www.mapbox.com/help/overpass-turbo/)
